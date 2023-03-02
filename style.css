@@ -1,24 +1,44 @@
 body{
     color: #282425;
-    background-color: #fff1e6;
+    background-color:#FFC291;
     font-size: 20px;
+    line-height:1.5;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Work Sans', sans-serif; 
    }
 
 
 
 h1 {
-   color: #756158;
+   color:#518F99;
+   font-style: italic;
+   text-align: center;
   }
 
 h2{
-color: #756158;
+color: #518F99;
+font-style: italic;
+text-align: center;
 }
 
 h3{
-    color: #756158;
+    color: #518F99;
+    font-style: italic;
+    text-align: center;
     }
     
 
 a {
-    color: #756158;
+    color:#518F99;
+    font-style: italic;
+    text-align: center;
     } 
+
+.foto{
+    width:600px;
+    height:300px;
+    vertical-align: middle;
+    border:2px solid 
+    
+    
+} 
